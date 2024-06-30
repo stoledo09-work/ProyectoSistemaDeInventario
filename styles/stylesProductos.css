@@ -1,0 +1,38 @@
+.navbar {
+  width: 98.081% !important;
+}
+
+#btnAddProduct {
+  position: absolute;
+  top: 65px;
+  right: 5px;
+  padding: 8px 16px;
+  border: 3px solid #0059b8;
+  font-size: 15px;
+}
+
+#productTable th.col-id {
+  width: 50px;
+}
+
+#productTable th.col-name {
+  width: 300px;
+}
+
+#productTable th.col-price {
+  width: 80px;
+}
+
+/*
+#productTable th.col-description {
+  width: calc(100% - 732px);
+}
+*/
+
+#productTable th.col-exist {
+  width: 180px;
+}
+
+#productTable th.col-buttons {
+  width: 122px;
+}
