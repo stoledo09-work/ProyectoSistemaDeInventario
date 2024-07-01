@@ -1,5 +1,5 @@
 # ProyectoSistemaDeInventario
-Proyecto desarrollo como Evaluación Final de la materia Lenguajes de Programación y Lab. Lenguaje de Programación dictadas por el profesor Ing. Angel Cepeda.
+Proyecto desarrollado como Evaluación Final de la materia Lenguajes de Programación y Lab. Lenguaje de Programación dictadas por el profesor Ing. Angel Cepeda.
 
 Código desarrollado por los estudiantes:
 - Alina Materano.
